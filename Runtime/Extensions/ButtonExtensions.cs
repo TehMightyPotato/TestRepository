@@ -10,6 +10,7 @@ namespace Extensions
         {
             button.clicked += callback;
             CanvasManager.Instance.RegisterButtonSfx(button);
+            //AAAA
         }
     }
 }
