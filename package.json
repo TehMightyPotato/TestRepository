@@ -1,0 +1,12 @@
+{
+	"name": "de.mightypotato.testpackage",
+	"displayName": "Test Package",
+	"version": "1.0.0-preview",
+	"unity": "2020.3",
+	"license": "MIT",
+	"author": "Nicolas Teichtweier",
+	"description": "A test package",
+	"keywords": [],
+	"dependencies": {},
+	"gitDependencies": {}
+}
